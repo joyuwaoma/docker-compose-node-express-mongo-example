@@ -10,5 +10,6 @@ This is a sample application demonstrating how to build an Node.js express RESTf
 4. Start the application: `node index.js`
 
 ## Dockerized the application
+
 1. Wrote a dockerfile and built the dockerimage
 2. Ran the application in a docker container
